@@ -1,0 +1,7 @@
+C:\Users\Sami\source\repos\pw2Bank_Samiuddin_Syed\pw2Bank_Samiuddin_Syed\obj\Debug\pw2Bank_Samiuddin_Syed.csprojAssemblyReference.cache
+C:\Users\Sami\source\repos\pw2Bank_Samiuddin_Syed\pw2Bank_Samiuddin_Syed\obj\Debug\pw2Bank_Samiuddin_Syed.csproj.CoreCompileInputs.cache
+C:\Users\Sami\source\repos\pw2Bank_Samiuddin_Syed\pw2Bank_Samiuddin_Syed\bin\Debug\pw2Bank_Samiuddin_Syed.exe.config
+C:\Users\Sami\source\repos\pw2Bank_Samiuddin_Syed\pw2Bank_Samiuddin_Syed\bin\Debug\pw2Bank_Samiuddin_Syed.exe
+C:\Users\Sami\source\repos\pw2Bank_Samiuddin_Syed\pw2Bank_Samiuddin_Syed\bin\Debug\pw2Bank_Samiuddin_Syed.pdb
+C:\Users\Sami\source\repos\pw2Bank_Samiuddin_Syed\pw2Bank_Samiuddin_Syed\obj\Debug\pw2Bank_Samiuddin_Syed.exe
+C:\Users\Sami\source\repos\pw2Bank_Samiuddin_Syed\pw2Bank_Samiuddin_Syed\obj\Debug\pw2Bank_Samiuddin_Syed.pdb
