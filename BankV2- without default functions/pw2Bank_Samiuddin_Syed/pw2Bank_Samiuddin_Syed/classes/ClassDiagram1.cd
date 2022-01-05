@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="pw2Bank_Samiuddin_Syed.classes.Account">
+    <Position X="8.75" Y="1.5" Width="2.25" />
+    <AssociationLine Name="client" Type="pw2Bank_Samiuddin_Syed.classes.Client">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.456" Y="0.152" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgACAAIAAgAAAAAAAAABAAAAAQ=</HashCode>
+      <FileName>classes\Account.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="client" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="pw2Bank_Samiuddin_Syed.classes.Bank">
+    <Position X="2.75" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAEAIQAgACAAAACAAAAAEI=</HashCode>
+      <FileName>classes\Bank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pw2Bank_Samiuddin_Syed.classes.Client">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAgAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
